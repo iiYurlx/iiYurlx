@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @iiYurlx
-- 👀 I’m interested in Lua, Java, C#
-- 🌱 I’m currently learning C# 
+
